@@ -30,7 +30,7 @@ int main(int argc, char *argv[]){
            
         for(int k = 0; k < count; k++){
 
-                    putchar(c);
+                    printf("%c", c);
             }
 	    
       }
